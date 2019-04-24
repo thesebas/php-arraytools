@@ -1,0 +1,20 @@
+{
+  "name": "thesebas/php-arraytools",
+  "description": "PHP array tools",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "thesebas",
+      "email": "thesebas@thesebas.net"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "./src/arraytools.php"
+    ]
+  },
+  "require": {
+    "php": "7.1"
+  }
+}
